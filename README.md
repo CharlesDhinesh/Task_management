@@ -12,7 +12,7 @@ A task management application built with Django and MongoDB using MongoEngine OD
 ## Prerequisites
 
 - Python 3.6+
-- MongoDB 4.0+
+
 
 ## Installation
 
